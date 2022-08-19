@@ -1,0 +1,11 @@
+create table management(
+	idnumber varchar(100),
+	studentNo varchar(100),
+	fullName varchar(100),
+	grade varchar(100),
+	faculty varchar(100),
+	profession varchar(100),
+	gender varchar(100),
+	time varchar(100),
+	professionNo varchar(100),
+	language varchar(100) );
